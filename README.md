@@ -89,5 +89,7 @@ Waterpoints with poor water quality tend to have lower functionality rates.
 
 ## Future Work
 Further refine the models with advanced techniques such as ensemble learning.
+
 Incorporate additional features and external data sources to improve predictions.
+
 Develop a web application for real-time prediction and visualization of waterpoint functionality.
